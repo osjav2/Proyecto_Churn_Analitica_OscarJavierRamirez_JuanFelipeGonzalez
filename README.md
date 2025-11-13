@@ -53,8 +53,8 @@ coloca en el mismo directorio donde esta el cuaderno todos los archivos a ejecut
 ├── evaluation.py
 ├── pycaret_automl.py
 └── [MODELO_GUARDADO].pkl  (e.g., pycaret_best_automl_model.pkl)
-
-
-
-
 Abre el cuaderno Taller_Final.ipynb.  y ejecuta ya teniendo ejecutaro requermientos y archivos en el mismo directorio
+
+
+AUTORES: Juan Felipe Gonzalez, Oscar Javier Ramirez
+
