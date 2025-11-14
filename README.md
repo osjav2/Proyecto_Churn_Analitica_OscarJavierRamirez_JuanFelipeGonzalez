@@ -47,7 +47,11 @@ el archivo requerimientos contine las librerias usadas en el entorno de instalac
 3. Ejecutar el Análisis
     El análisis completo (Carga de Datos, EDA, Preprocesamiento, Optimización, Entrenamiento, Evaluación y Guardado de Modelos) se ejecuta desde el cuaderno de Jupyter.
 
+<<<<<<< HEAD
     Abre el proyecto en PyCharm o terminal jupyter tener presente el modulo de pycaret solo corre con versiones inferiores a 3.10 de python en colab no correr ya que predetermina version posterior sin embargo el codigo no se detine por este modulo y corre lo demas 
+=======
+Abre el proyecto en PyCharm o terminal jupyter tener presente el modulo de pycaret solo corre con versiones inferiores a 3.10 de python en colab no correr ya que predetermina version posterior sin embargo el codigo no se detine por este modulo y corre lo demas 
+>>>>>>> 17cc34331b89061e569ff4b2f3ba49b59ec2f8f7
 
     Asigna el intérprete: Asegúrate de que PyCharm use el intérprete (venv) recién creado.
 
